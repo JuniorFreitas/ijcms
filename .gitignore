@@ -1,0 +1,9 @@
+/node_modules
+/public/storage
+/vendor
+/database/migrations
+/app
+/.idea
+Homestead.json
+Homestead.yaml
+.env
